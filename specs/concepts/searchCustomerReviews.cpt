@@ -1,0 +1,33 @@
+Created by muammer on 20.08.2020
+
+This is a concept file with following syntax for each concept.
+# Search To Value
+* Write value "drone" to element "searchInputText"
+* Wait "2" seconds
+* Click to element "searchBoxButton"
+* Wait "2" seconds
+
+# Search Listing Screen & Click Random Product Detail
+* Click to Random Element "searchListing"
+
+# Product Review Tab
+* Scroll until  find the element "productReviewsTab"
+* Click to element "productReviewsTab"
+
+# Review Count Control
+* "reviewCount" number of content in element
+
+# Review Click Yes Buttom
+* Click to element "productReviewFirstYesModule"
+* Wait "2" seconds
+
+# Review Yes Buttom Alert Message
+* Element control "productReviewThanksMessage"
+
+
+# Rest api Get Request
+* Rest api GET request
+
+# Rest Api Post Request
+* Rest api POST request
+

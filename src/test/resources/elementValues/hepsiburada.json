@@ -1,0 +1,42 @@
+[
+  {
+    "key": "searchInputText",
+    "value": "input[class='desktopOldAutosuggestTheme-input']",
+    "type": "css"
+  },
+  {
+    "key": "sepetim",
+    "value": "a[class='OldMyAccount-WTOLC OldMyAccount-1kR4k']",
+    "type": "css"
+  },
+  {
+    "key": "searchBoxButton",
+    "value": "div[class='SearchBoxOld-buttonContainer']",
+    "type": "css"
+  },
+  {
+    "key": "searchListing",
+    "value": "div[class='product-detail']",
+    "type": "css"
+  },
+  {
+    "key": "productReviewsTab",
+    "value": "tr [id='productReviewsTab']",
+    "type": "css"
+  },
+  {
+    "key": "productReviewFirstYesModule",
+    "value": "div:nth-child(1) >div[class='ReviewCard-module-3Y36S'] button[class='ReviewCard-module-1MoiF",
+    "type": "css"
+  },
+  {
+    "key": "productReviewThanksMessage",
+    "value": "div:nth-child(1) > div.ReviewCard-module-3Y36S > div.ReviewCard-module-uH6Em > span.ReviewCard-module-1ZiTv",
+    "type": "css"
+  },
+  {
+    "key": "reviewCount",
+    "value": "div[class='ReviewCard-module-2dVP9']",
+    "type": "css"
+  }
+]
